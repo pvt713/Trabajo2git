@@ -26,6 +26,7 @@ Thumbs.db
 # Build Artifacts
 
 .gradle/
+sandbox/
 build/
 target/
 bin/
